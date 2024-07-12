@@ -1,0 +1,27 @@
+NAME: Name of the geographic area (Census Tract, County, etc.)
+S1501_C01_001E: Total population 25 years and over
+S1501_C01_002E: Less than 9th grade
+S1501_C01_003E: 9th to 12th grade, no diploma
+S1501_C01_004E: High school graduate (includes equivalency)
+S1501_C01_005E: Some college, no degree
+S1501_C01_006E: Associate's degree
+S1501_C01_007E: Bachelor's degree
+S1501_C01_008E: Graduate or professional degree
+S1501_C01_009E: Percent high school graduate or higher
+S1501_C01_010E: Percent bachelor's degree or higher
+S1501_C01_011E: Male, total population 25 years and over
+S1501_C01_012E: Male, less than 9th grade
+S1501_C01_013E: Male, 9th to 12th grade, no diploma
+S1501_C01_014E: Male, high school graduate (includes equivalency)
+S1501_C01_015E: Male, some college, no degree
+S1501_C01_016E: Male, associate's degree
+S1501_C01_017E: Male, bachelor's degree
+S1501_C01_018E: Male, graduate or professional degree
+S1501_C01_019E: Female, total population 25 years and over
+S1501_C01_020E: Female, less than 9th grade
+S1501_C01_021E: Female, 9th to 12th grade, no diploma
+S1501_C01_022E: Female, high school graduate (includes equivalency)
+S1501_C01_023E: Female, some college, no degree
+S1501_C01_024E: Female, associate's degree
+S1501_C01_025E: Female, bachelor's degree
+S1501_C01_026E: Female, graduate or professional degree
