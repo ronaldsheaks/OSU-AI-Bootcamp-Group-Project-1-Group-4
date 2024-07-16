@@ -8,3 +8,6 @@ Also created the Google_Places_Whole_Foods_Scrape.ipynb
 
 Called the Census API to retrieve American Community Survey (ACS) 5-Year Estimates
 for Educational Attainment, 2020 at Census Tract level, for Ohio, and put the .csv in the Resources Folder.
+
+Monday, July 15th, 2024-
+Downloaded Total Population data, merged that with the Educational Attainment Data, then concatenated that data output with the corresponding key/shell headers. Filtered Ohio Whole Foods Market Locations, made a map of the points, and exported a shapefile.
