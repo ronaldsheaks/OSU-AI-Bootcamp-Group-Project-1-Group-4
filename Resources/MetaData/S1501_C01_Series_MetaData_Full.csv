@@ -1,0 +1,257 @@
+,label,concept,predicateType,group,limit,predicateOnly
+S1501_C01_061EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_061MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_060EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_060MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_015EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_015MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_014EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_014MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_017EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_017MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_016EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_016MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_019EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_019MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_018EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_018MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_059EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_059MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_058EA,Annotation of Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_058MA,Annotation of Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_010MA,"Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_011EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_011MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_010EA,"Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_013EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_013MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_012EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_012MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_050EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_050MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_052EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_052MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_053EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_051EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_051MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_054MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_055EA,Annotation of Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_053MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_054EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_056MA,Annotation of Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_057EA,Annotation of Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_057MA,Annotation of Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_055MA,Annotation of Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_056EA,Annotation of Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_028EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_028MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_027EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_027MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_029EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_029MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_020EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_021MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_022EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_020MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_021EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_024EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_024MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_022MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_023EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_023MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_026EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_026MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_025EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_025MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_063EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_063MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_062EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_062MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_064EA,Annotation of Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_064MA,Annotation of Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_059E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_059M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_058E,Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_058M,Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_032MA,"Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_060M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_061E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_060E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_062M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_063E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_061M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_033EA,"Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_062E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_064M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_063M,Margin of Error!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Bachelor's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_064E,Estimate!!Total!!MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2020 INFLATION-ADJUSTED DOLLARS)!!Population 25 years and over with earnings!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_031MA,"Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_032EA,"Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_035EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_035MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_033MA,"Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_034EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_034MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_037EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_037MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_036EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_036MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_039EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_039MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_038EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_038MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_001E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_001M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_003E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_003M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_002E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_002M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_005E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_005M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_004E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_004M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_007E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_007M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_006E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_006M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_009E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_009M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_008E,"Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_008M,"Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_010M,"Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_011E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_011M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_010E,"Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_013E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_013M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_012E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_012M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_015E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_015M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_014E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_014M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_017E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_017M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_016E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_016M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_019E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_019M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_018E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_018M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 to 34 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_020M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_021E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_020E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_023E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_023M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_021M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 35 to 44 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_022E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_022M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_025E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_025M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_024E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_024M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 45 to 64 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_027E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_027M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_026E,Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_026M,Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 65 years and over!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_029E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_029M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_028E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_028M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_030M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_031E,"Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_030E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_032M,"Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_033E,"Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_033M,"Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!Bachelor's degree or higher",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_031M,"Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_032E,"Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino!!High school graduate or higher",EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_035E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_035M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_034E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_034M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_037E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_037M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_036E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_036M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Black alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_039E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_039M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_038E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_038M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!American Indian or Alaska Native alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_030MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_040M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_041E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_040E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_042M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_043E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_041M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_031EA,"Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone, not Hispanic or Latino",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_042E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_045E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_045M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_043M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_044E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_044M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_047E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_047M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_046E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_046M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_049E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_049M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_048E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_048M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_050M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_051E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_050E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_052M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_053E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_051M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_052E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_054M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_055E,Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_055M,Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Less than high school graduate,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_053M,Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!High school graduate or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_054E,Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Hispanic or Latino Origin!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_057E,Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_057M,Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_056E,Estimate!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_030EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!White alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_056M,Margin of Error!!Total!!POVERTY RATE FOR THE POPULATION 25 YEARS AND OVER FOR WHOM POVERTY STATUS IS DETERMINED BY EDUCATIONAL ATTAINMENT LEVEL!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,int,S1501,0,True
+S1501_C01_009EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_009MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_002EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_002MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Less than high school graduate,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_001EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_001MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_004EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_004MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Some college or associate's degree,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_003EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_003MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!High school graduate (includes equivalency),EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_006EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_006MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_005EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_005MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 18 to 24 years!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_008EA,"Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_008MA,"Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma",EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_007EA,Annotation of Estimate!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_007MA,Annotation of Margin of Error!!Total!!AGE BY EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_045MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_046EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_046MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_044MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_045EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_048EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_048MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_047EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_047MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Some other race alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_049EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_049MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Two or more races,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_041EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_041MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_042EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_040EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_040MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_043MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_044EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone!!High school graduate or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_042MA,Annotation of Margin of Error!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Asian alone!!Bachelor's degree or higher,EDUCATIONAL ATTAINMENT,string,S1501,0,True
+S1501_C01_043EA,Annotation of Estimate!!Total!!RACE AND HISPANIC OR LATINO ORIGIN BY EDUCATIONAL ATTAINMENT!!Native Hawaiian and Other Pacific Islander alone,EDUCATIONAL ATTAINMENT,string,S1501,0,True
