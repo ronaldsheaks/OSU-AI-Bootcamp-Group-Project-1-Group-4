@@ -44,4 +44,6 @@ The Census_Tract_Centroid_Ohio_Plus_Edu_Pop.csv/xlsx contains data on Education 
 The WF_Census_Tracts_Within_20Min_DT_Ohio_Centroid.csv/xlsx contains data on Education and Population, but also has the Lat/Long of all the Census Tract Centroids that fall within
 the 20 Minute Drive Time Polygons from the Ohio Whole Foods Market Locations.
 
+Class Time:
 
+The team mulled over the data, and we believe that it is in the right format. Shawn is now deciphering the ACS 5 Year Header Keys to generate a more user friendly DataSet.
