@@ -54,7 +54,7 @@ The team mulled over the data, and we believe that it is in the right format. Sh
 Shawn also made a PowerPoint, and put it in the Presentation Folder.
 This PowerPoint formulates and frames actionable questions, observations, and deliverable outcomes.
 
-**Thursday, July, 18th, 2024-
+**Thursday, July 18th, 2024-
 
 Cleaned up the Repo. May have to Refactor some code with the .ipynb file paths, if necessary.
 
@@ -69,3 +69,7 @@ We had labeled the fields in the S1501 Series incorrectly, and luckily these inc
 **B01003_001E is the Total Population Estimate.
 
 See MetaData.
+
+**Friday, July 19th, 2024-
+
+Added CARTO Mapping Application - Ohio Whole Foods Market_CARTO_Map_html to Root. Updated Slides in Presentation Folder.
