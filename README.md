@@ -73,3 +73,9 @@ See MetaData.
 **Friday, July 19th, 2024-
 
 Added CARTO Mapping Application - Ohio Whole Foods Market_CARTO_Map_html to Root. Updated Slides in Presentation Folder.
+
+**Saturday,July 19th, 2024-
+
+Shawn ran some stats and pulled information from the data such as scatter plots and correlation matrices pertaining to Whole Foods Market Locations and Educational Attainment, Income, and Non-Family Households. He also added the visualizations to the .pptx in the Presentation Folder.
+
+Ronald added his Mapping Slides to the .pptx Presentation, Updated the README.md file and pushed changes.
